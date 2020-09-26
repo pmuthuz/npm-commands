@@ -1,0 +1,6 @@
+npm list //To list the module in a app
+npm list --depth=0 //To list the modules without the dependencies
+npm view mangoose //To view dependencies of a specific module
+npm i moongoose@2.4.2 //ton install a specifi version
+npm outdated //To list the outdated packages
+sudo npm i -g npm-check-updates //To upgradge the packages in package.json
